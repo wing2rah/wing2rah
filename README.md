@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Rahul Shah
+## Hi 👋, I'm Rahul Shah
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Python+Backend+Developer;FastAPI+Enthusiast;Building+Cool+Projects;Learning+LangChain+%26+RAG;Always+Learning+Something+New..." />
 
@@ -45,7 +45,7 @@ me.say_hi()
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🎓 B.Tech Computer Science Engineering
 - 🐍 Python Backend Developer
@@ -56,7 +56,7 @@ me.say_hi()
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
@@ -90,7 +90,7 @@ me.say_hi()
 
 ---
 
-# 🚧 Current Projects
+## 🚧 Current Projects
 
 📂 File Sharing Platform
 
@@ -118,7 +118,7 @@ me.say_hi()
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -130,7 +130,7 @@ me.say_hi()
 
 ---
 
-# 💻 Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
 
@@ -140,7 +140,7 @@ me.say_hi()
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -150,13 +150,13 @@ me.say_hi()
 
 ---
 
-# 📊 Contribution Graph
+## 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wing2rah&theme=tokyo-night"/>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 
@@ -166,11 +166,11 @@ me.say_hi()
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="mailto:rahuljnvh956@gmail.com">
+<a href="rahulshahx@proton.me">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
